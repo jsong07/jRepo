@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 dfdfldjkflkadjl;k
 ancc12345
 123456
+=======
+dfdfldjkflkadjl;k
+>>>>>>> parent of 183d04b... fix bug 02
